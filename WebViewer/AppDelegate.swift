@@ -1,10 +1,7 @@
 //
 //  AppDelegate.swift
 //  WebViewer
-//
-//  Created by Amit Gaikwad on 02/03/18.
-//  Copyright © 2018 Amit Gaikwad. All rights reserved.
-//
+
 
 import UIKit
 import OneSignal

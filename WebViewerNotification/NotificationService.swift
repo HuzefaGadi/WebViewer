@@ -1,10 +1,7 @@
 //
 //  NotificationService.swift
 //  WebViewerNotification
-//
-//  Created by Amit Gaikwad on 02/03/18.
-//  Copyright © 2018 Amit Gaikwad. All rights reserved.
-//
+
 
 import UserNotifications
 
